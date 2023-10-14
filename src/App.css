@@ -715,9 +715,13 @@ input {
     }
 }
 
-@media (min-width:992.98px) {
+@media (min-width:992px) {
     .pl-lg-72 {
         padding-left: 72px !important;
+    }
+
+    .d_none {
+        display: none !important;
     }
 
     .absolute_1 {
@@ -784,7 +788,7 @@ input {
     }
 }
 
-@media (max-width:992.98px) {
+@media (max-width:991.98px) {
     .mobile-view {
         position: fixed;
         top: 0;
