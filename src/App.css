@@ -788,7 +788,7 @@ input {
     }
 }
 
-@media (max-width:991.50px) {
+@media (max-width:991.10px) {
     .mobile-view {
         position: fixed;
         top: 0;
