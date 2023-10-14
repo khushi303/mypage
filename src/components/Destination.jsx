@@ -9,7 +9,7 @@ import { Locicon } from './Icon';
 function Destination() {
     return (
         <div className='lightbrown'>
-            <section id='about'>
+            <section id='about' className='pt-4'>
                 <Container>
                     <Row className='py-5 justify-content-between align-items-center'>
                         <Col lg={5}>
